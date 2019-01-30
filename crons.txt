@@ -1,3 +1,3 @@
-* * * * * php /home/runcloud/webapps/mautic/app/console mautic:segments:update
-* * * * * php /home/runcloud/webapps/mautic/app/console mautic:campaigns:update
-* * * * * php /home/runcloud/webapps/mautic/app/console mautic:campaigns:trigger
+* * * * * php /home/runcloud/webapps/${MTC}/app/console mautic:segments:update
+* * * * * php /home/runcloud/webapps/${MTC}/app/console mautic:campaigns:update
+* * * * * php /home/runcloud/webapps/${MTC}/app/console mautic:campaigns:trigger
